@@ -1,0 +1,25 @@
+.nav_text {
+    font-size: 16px;
+}
+
+.demo_block__first h1 {
+    font-size: clamp(60px, 3vw + 10px, 80px);
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.demo_block__first p {
+    font-size: 24px;
+}
+
+.clients_block__text_small {
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+}
+
+.clients_block__first_title {
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+}
